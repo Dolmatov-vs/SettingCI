@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/i2cj9ycbqe2yp009?svg=true)](https://ci.appveyor.com/project/Dolmatov-vs/settingci)
